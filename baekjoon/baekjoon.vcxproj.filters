@@ -78,9 +78,6 @@
     <ClCompile Include="18258_큐2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\baekjoon\baekjoon\3878_점 분리.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="1043_거짓말.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -94,6 +91,36 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="10254_고속도로.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1167_트리의 지름.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1967_트리의 지름.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A_내 뒤에 나와 다른 수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="B_아름다운 문자열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D_전화 돌리기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1865_웜홀.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1238_파티.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3878_점 분리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20149_선분 교차3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17386_선분 교차1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
